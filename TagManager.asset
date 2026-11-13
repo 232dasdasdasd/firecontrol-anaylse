@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - dirt
+  - Spawn
+  - Fire
+  - Building
+  - Pkw_Brand
+  - HUD
+  - Rain
+  - Goal
+  - Inspect
+  - CarDoor
+  - RollerDoor
+  - Escape
+  - Muster
+  - RTW
+  - SpectatorPosition
+  - PointOfInterest
+  - MischiefPosition
+  - InformationPosition
+  - VictimPosition
+  - RemoveObject
+  - IdleArea
+  - Stretcher
+  - CarSound
+  - Combine
+  - AmbientSound
+  - Crane_Extinguish
+  - Crane_Observe
+  - Crane_Rescue
+  - Siren
+  - Crane_CutTree
+  - GameModeMain
+  - GameModeVolunteer
+  - IdleAreaHospital
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Terrain
+  - Foam
+  - VehicleNoColl
+  - Vehicle
+  - Road
+  - Avatar
+  - Fire
+  - NoReflection
+  - Heat
+  - VehicleContent
+  - AvatarBlocker
+  - ParticleCollider
+  - DropOffBlocker
+  - CollisionObjects
+  - VehicleAvatar
+  - UnloadArea
+  - HookConn
+  - SoundArea
+  - InteractiveNoBlock
+  - Obstacle
+  - HeatOnly
+  - MapView
+  - Indoor
+  - Interactive
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 327047531
+    locked: 0
+  - name: Foreground
+    uniqueID: 3592071005
+    locked: 0

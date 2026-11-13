@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/intro.unity
+    guid: dba839c0e9937fa409292bf296866704
+  - enabled: 1
+    path: Assets/Scenes/mainmenu.unity
+    guid: e08608860413c1141bd9db4294db576b
+  - enabled: 1
+    path: Assets/Scenes/loadingscreen.unity
+    guid: abf8d8d07b6669c46933d37eef7116b8
+  - enabled: 1
+    path: Assets/Scenes/world_main.unity
+    guid: 85238f32f7c11924b91951624938c1cf
+  - enabled: 1
+    path: Assets/Scenes/world_firestation.unity
+    guid: a7a0376e461a22749baf321dd9e37935
+  - enabled: 1
+    path: Assets/Scenes/world_buildings.unity
+    guid: 7a25d3fab4770a54a83843771b8ed1b4
+  - enabled: 1
+    path: Assets/Scenes/world_statics.unity
+    guid: d206f07b4669dac48a951c2ad48a6ab6
+  - enabled: 1
+    path: Assets/Scenes/world_terrain.unity
+    guid: 4e43f69219ef11642bdc759d020e39b2
+  - enabled: 1
+    path: Assets/Scenes/world_missions.unity
+    guid: f7c364f4382be534bae4ef6c25c93b99
+  - enabled: 1
+    path: Assets/Scenes/modding.unity
+    guid: 65f01f218d7db5d4f97e92391c7a7fcf
+  - enabled: 1
+    path: Assets/Scenes/character_editor.unity
+    guid: 9e69f3347bcc655439d819492ebf566f
+  - enabled: 1
+    path: Assets/Teststuff/ai_testscene.unity
+    guid: a703b7292d1fc8341b9fec6ee8e216b8
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
